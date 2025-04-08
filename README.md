@@ -14,6 +14,6 @@ Aspiring Software Development Engineer (SDE) with a solid foundation in full-sta
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://thevaluable.dev/images/2020/developer-titles/ultimate-developer-god.jpg;"/>
 
 ---
